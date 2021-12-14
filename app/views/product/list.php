@@ -2,7 +2,7 @@
 <a class="btn btn-warning" href="index.php?page=product-create">Thêm mặt hàng</a>
 <div style="float: right" >
     <form action=""method="get">
-        <table  class="table-bordered">
+        <table >
             <tr>
                 <td>Nhập tên hàng
                     <input type="text" name="search">

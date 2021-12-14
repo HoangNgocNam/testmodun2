@@ -20,7 +20,7 @@
             <td>Số lượng: <input  class="form-control" type="text" name="quantily" placeholder="Nhập tên sản phẩm" value="<?php echo $product->quantily ?>"></td>
         </tr>
         <tr>
-            <td>Mô tả:<textarea  class="form-control" name="description" value="<?php echo $product->description ?>"></textarea></td>
+            <td>Mô tả:<textarea  class="form-control" name="description"><?php echo $product->description ?>"</textarea></td>
         </tr>
         <tr>
             <td>
